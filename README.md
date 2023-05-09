@@ -2,9 +2,9 @@
 This is a begginer level project that is clone of facebook. To make this porject I used HTML, CSS, JAVASCRIPT.
 
 Technology:
-1.HTML
-2.CSS
-3.Javascript
+1. HTML
+2. CSS
+3. Javascript
 
 How to use:
 1. Download the file
